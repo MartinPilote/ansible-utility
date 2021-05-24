@@ -1,0 +1,22 @@
+---
+dependencies:
+
+galaxy_info:
+  author: Martin Pilote
+  description: 'Ansible role to install utilities'
+  repository: 'https://github.com/MartinPilote/ansible-utility'
+  license: 'GPL-3.0-only'
+  min_ansible_version: 2.4
+  platforms:
+  - name: 'Archlinux'
+    versions:
+    - all
+  - name: 'Fedora'
+    versions:
+    - all
+  - name: 'RedHat'
+    versions:
+    - all
+  galaxy_tags:
+    - utility
+...
