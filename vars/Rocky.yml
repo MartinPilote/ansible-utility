@@ -1,0 +1,9 @@
+---
+packages:
+  - "wget"
+  - "git"
+  - "curl"
+  - "zsh"
+  - "cifs-utils"
+  - "mlocate"
+...
