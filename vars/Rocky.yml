@@ -6,4 +6,5 @@ packages:
   - "zsh"
   - "cifs-utils"
   - "mlocate"
+  - "usbutils"
 ...
